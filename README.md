@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <div id="header" align="center">
-  ![cropped illustration](https://github.com/Angela-LJ/Angela-LJ/assets/110421510/46ffaf84-a95c-4e74-a847-d2a1c5868056)
+![cropped illustration](https://github.com/Angela-LJ/Angela-LJ/assets/110421510/46ffaf84-a95c-4e74-a847-d2a1c5868056)
 </div>
 
 ### <h1>GutHub Stats⭐</h1>
