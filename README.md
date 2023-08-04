@@ -25,4 +25,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<div id="header" align="center">
 
+![cropped illustration](https://github.com/Angela-LJ/Angela-LJ/assets/110421510/be28a463-5be9-45b4-9fc9-74ddf3e33566)
+
+</div>
