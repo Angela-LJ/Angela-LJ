@@ -5,7 +5,7 @@
 
 
 <h1>Trophies Collected</h1>
-https://github-profile-trophy.vercel.app/?username=Angekla-LJ-ma&theme=discord
+![trophy](https://github-profile-trophy.vercel.app/?username=Angela-LJ=onedark)
 
 <!--
 **Angela-LJ/Angela-LJ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
