@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+<div id="header" align="center">
+  ![cropped illustration](https://github.com/Angela-LJ/Angela-LJ/assets/110421510/46ffaf84-a95c-4e74-a847-d2a1c5868056)
+</div>
+
 ### <h1>GutHub Stats⭐</h1>
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Angela-LJ&theme=cobalt&date_format=j%20M%5B%20Y%5D&background=000000&border=7536B2&stroke=9243DD&ring=89502D&fire=FF9554&currStreakNum=D280FF&sideNums=BC52FF&currStreakLabel=64EAE2&sideLabels=48A8A2&dates=A42EE5)
@@ -21,3 +25,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
