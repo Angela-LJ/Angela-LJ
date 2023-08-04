@@ -1,8 +1,11 @@
 ### Hi there 👋
 
 <div id="header" align="center">
-![cropped illustration](https://github.com/Angela-LJ/Angela-LJ/assets/110421510/46ffaf84-a95c-4e74-a847-d2a1c5868056)
+
+![cropped illustration](https://github.com/Angela-LJ/Angela-LJ/assets/110421510/be28a463-5be9-45b4-9fc9-74ddf3e33566)
+
 </div>
+
 
 ### <h1>GutHub Stats⭐</h1>
 
@@ -25,8 +28,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<div id="header" align="center">
-
-![cropped illustration](https://github.com/Angela-LJ/Angela-LJ/assets/110421510/be28a463-5be9-45b4-9fc9-74ddf3e33566)
-
-</div>
