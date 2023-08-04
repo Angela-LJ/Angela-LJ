@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Angela-LJ&theme=radical)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Angela-LJ&theme=garden&sideNums=FF63A0&background=46%2C7E26EB%2C11A3EB&fire=EBA617&currStreakNum=FF63A0&sideLabels=FFA451&currStreakLabel=FFA451&ring=FFA451D7&dates=FF5B5B&stroke=EB5454)](https://git.io/streak-stats)
 
 <!--
 **Angela-LJ/Angela-LJ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
