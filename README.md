@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<h1>Current GitHub Stats ⭐</h1>
+
 [![GitHub Streak](https://streak-stats.demolab.com?user=Angela-LJ&theme=radical)](https://git.io/streak-stats)
 
 <h1>Trophies Collected</h1>
