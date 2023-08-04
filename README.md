@@ -2,9 +2,7 @@
 
 <div id="header" align="center" size="100px">
   
-![cropped illustration](https://github.com/Angela-LJ/Angela-LJ/assets/110421510/01e50b20-06c4-4676-8af8-851aca9b30c2)
-
-<img src="https://github.com/Angela-LJ/Angela-LJ/assets/110421510/01e50b20-06c4-4676-8af8-851aca9b30c2" width="100">
+<img src="https://github.com/Angela-LJ/Angela-LJ/assets/110421510/01e50b20-06c4-4676-8af8-851aca9b30c2" width="300">
 
 </div>
 
