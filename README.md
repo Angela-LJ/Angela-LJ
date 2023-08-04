@@ -1,8 +1,8 @@
 ### Hi there 👋
 
 <div id="header" align="center">
-
-![cropped illustration]("https://github.com/Angela-LJ/Angela-LJ/assets/110421510/be28a463-5be9-45b4-9fc9-74ddf3e33566")
+  
+![cropped illustration](https://github.com/Angela-LJ/Angela-LJ/assets/110421510/01e50b20-06c4-4676-8af8-851aca9b30c2)
 
 </div>
 
