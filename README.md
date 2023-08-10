@@ -1,5 +1,5 @@
 <div id="header" align="center" size="100px">
-<h2>Welcome to my Github 👋</h2>
+<h2>Welcome to my Github! 👋</h2>
   
 <img src="https://github.com/Angela-LJ/Angela-LJ/assets/110421510/e2b13e49-6122-42e1-9569-dfae6828f536)">
 
