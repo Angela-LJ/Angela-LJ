@@ -12,6 +12,7 @@
 
 </div>
 
+![Magical Twitter Header Centered](https://github.com/Angela-LJ/Angela-LJ/assets/110421510/1c1faae7-d2b7-463b-950d-6a2c17932c4a)
 
 Github Profile Sections To Work On: 
 - 🔭 I’m currently working on ...
