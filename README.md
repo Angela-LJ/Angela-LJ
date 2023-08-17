@@ -12,7 +12,6 @@
 
 </div>
 
-![Magical Twitter Header](https://github.com/Angela-LJ/Angela-LJ/assets/110421510/0124456a-18eb-46fd-aeb1-334b93d897eb)
 
 **Angela-LJ/Angela-LJ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
