@@ -1,7 +1,8 @@
 <div id="header" align="center" size="100px">
 <h2>Welcome to my Github!! 👋</h2>
   
-<img src="https://github.com/Angela-LJ/Angela-LJ/assets/110421510/e2b13e49-6122-42e1-9569-dfae6828f536)">
+![Magical Twitter Header Centered](https://github.com/Angela-LJ/Angela-LJ/assets/110421510/0d4bab4f-e3be-4a31-96c2-668ca831682e)
+
 
 </div>
 
@@ -12,7 +13,6 @@
 
 </div>
 
-![Magical Twitter Header Centered](https://github.com/Angela-LJ/Angela-LJ/assets/110421510/1c1faae7-d2b7-463b-950d-6a2c17932c4a)
 
 Github Profile Sections To Work On: 
 - 🔭 I’m currently working on ...
