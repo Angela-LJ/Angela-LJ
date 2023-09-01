@@ -1,5 +1,5 @@
 <div id="header" align="center" size="100px">
-<h2>Welcome to my Github! 👋</h2>
+<h2>Welcome to my Github!! 👋</h2>
   
 ![Magical Twitter Header Centered](https://github.com/Angela-LJ/Angela-LJ/assets/110421510/0d4bab4f-e3be-4a31-96c2-668ca831682e)
 
